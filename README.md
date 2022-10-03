@@ -1,6 +1,6 @@
-## Getting Started
+## Enunciado
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+3- Faça um programa que peça 2 números e imprima a soma.
 
 ## Folder Structure
 
